@@ -1,0 +1,24 @@
+---
+date: 2022-01-22
+title: My second blog post
+description: Snap, this is cool
+---
+
+import { graphql } from 'gatsby';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
+
+export const query = graphql`
+  query ShianglingQuery {
+    file(name: { eq: "shiangling-RQbwjCKWxQw-unsplash" }) {
+      childImageSharp {
+        gatsbyImageData(placeholder: DOMINANT_COLOR)
+      }
+    }
+  }
+`;
+
+# Oh Snap
+
+This post is even better!
+
+<GatsbyImage image={getImage(props.data.file)} />
