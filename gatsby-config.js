@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/frontend-masters-intro-to-gatsby-project',
   siteMetadata: {
     title: 'Example site',
     siteUrl: 'https://www.yourdomain.tld',
