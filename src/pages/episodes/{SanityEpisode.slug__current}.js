@@ -4,7 +4,7 @@ import { GatsbyImage } from 'gatsby-plugin-image';
 import Layout from '../../components/layout';
 
 export const query = graphql`
-  query SanityEpisodeQuery($id: String!) {
+  query SanityEpisode($id: String!) {
     sanityEpisode(id: { eq: $id }) {
       title
       description
@@ -27,7 +27,6 @@ const Episode = ({ data }) => {
     <Layout
       title={data.sanityEpisode.title}
       description={data.sanityEpisode.description}
-      image={data.sanityEpisode.image.asset.gatsbyImageData}
       alt={data.sanityEpisode.title}
     >
       <h1>{data.sanityEpisode.title}</h1>
