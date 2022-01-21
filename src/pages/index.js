@@ -23,6 +23,7 @@ const IndexPage = () => {
 
   const posts = data.allMdx.nodes;
 
+
   return (
     <>
       <Layout>
