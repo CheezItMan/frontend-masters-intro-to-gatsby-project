@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend_masters_intro_to_gatsby=self.webpackChunkfrontend_masters_intro_to_gatsby||[]).push([[682],{5518:function(e,t,n){n.r(t);var l=n(7294),r=n(5444),a=n(5560);t.default=function(){return l.createElement(l.Fragment,null,l.createElement(a.Z,{title:"About this site"},l.createElement("h1",null,"About Folx"),l.createElement("ul",null,l.createElement("li",null,l.createElement(r.rU,{to:"/"},"Home")))))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-2bb43f95321d22b49297.js.map

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-episodes-sanity-episode-slug-current-js",
+    "path": "/episodes/custom-discount-codes-with-fauna-tito-and-shopify/",
+    "result": {"data":{"sanityEpisode":{"title":"Custom Discount Codes With Fauna, Tito, and Shopify","description":"As part of Jamstack Conf, Jason is building a swag app with experts from around the community. This 5-part series will go through the whole process of building an e-commerce site with Shopify, Algolia, Sentry, Twilio, and Fauna.","slug":{"current":"custom-discount-codes-with-fauna-tito-and-shopify"},"youtubeID":"Iu87j6Mxfvw","date":"3 months ago","image":{"asset":null}}},"pageContext":{"id":"-77342b6c-ad8f-55c0-98d9-2cf15a1f6a62","slug__current":"custom-discount-codes-with-fauna-tito-and-shopify","__params":{"slug__current":"custom-discount-codes-with-fauna-tito-and-shopify"}}},
+    "staticQueryHashes": ["1391769105","1642819152"]}

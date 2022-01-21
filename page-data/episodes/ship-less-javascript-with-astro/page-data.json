@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-episodes-sanity-episode-slug-current-js",
+    "path": "/episodes/ship-less-javascript-with-astro/",
+    "result": {"data":{"sanityEpisode":{"title":"Ship Less JavaScript with Astro","description":"Astro is a way to build websites that ships zero JavaScript by default. Only add JS when you need it for maximum performance! Fred K. Schott will teach us how it works.","slug":{"current":"ship-less-javascript-with-astro"},"youtubeID":"z15YLsLMtu4","date":"7 months ago","image":null}},"pageContext":{"id":"-2e29ee5f-50f7-5c22-b7c2-6965dcc44015","slug__current":"ship-less-javascript-with-astro","__params":{"slug__current":"ship-less-javascript-with-astro"}}},
+    "staticQueryHashes": ["1391769105","1642819152"]}

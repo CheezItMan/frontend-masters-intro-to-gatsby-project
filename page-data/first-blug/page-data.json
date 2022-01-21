@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-posts-first-blug-mdx",
+    "path": "/first-blug/",
+    "result": {"pageContext":{"frontmatter":{"date":"2022-01-20T00:00:00.000Z","title":"My first blog post","description":"this is my 1st MDX blog post"}}},
+    "staticQueryHashes": ["1391769105","1642819152"]}
